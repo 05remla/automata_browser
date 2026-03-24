@@ -1,0 +1,20 @@
+# extensions
+*.log
+*.zip
+*.cache
+*.7z
+*.tar
+*.gz
+__pycache__*
+*.spec
+
+# directories
+__pycache__/
+.git/
+bin/
+build/
+lib/
+lib64/
+tmp/
+
+# specifics
